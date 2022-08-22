@@ -1,5 +1,16 @@
 # iniciante-java-oo-2022
 
+<img src="mostrar2.jpg" alt="Meu esboço" width="400" />
+
+Este é o esboço do que tentei modularizar, 1 Classe MovimentoCodar que possui outras 4 inferiores, sendo que 3 delas utilizam composição para aproveitar os atributos da MovimentoCodar. Além disso, também utilizei a herança para criar a classe OrganizadorMentor, que herdará todas características de Mentor, não sendo exclusivamente Organizador.
+Para rodar o projeto, basta compilar o arquivo Main.java e ver a sua execução no console.
+Neste arquivo de testes, busquei criar exemplos práticos de acordo com o que está escrito no Discord, criando 2 objetos para cada pessoa, um representando informações que todos tem no movimento codar (Nome, stack, papel no movimento codar) e o outro representando os atributos de cada um exclusivo.
+
+Infelizmente sinto que nesse desafio não consegui entregar meu melhor, fiz o desafio utilizando conceitos de composição e herança em sua grande maioria.
+Tentei realizar a implementação de interfaces mas não obtive êxito, me dedicarei o dobro para entregar o próximo de forma melhor.
+
+Utilizei a IDE intellij.
+
 ## Desafio
 
 O seu desafio será modelar o programa de aprendizes usando seus conhecimentos de programação orientada a objetos. A intenção é abstrair o máximo que conseguir do que acontece no dia a dia durante o programa.
