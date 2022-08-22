@@ -1,6 +1,6 @@
 # iniciante-java-oo-2022
 
-<img src="mostrar2.jpg" alt="Meu esboço" width="400" />
+<img src="mostrar2.jpg" alt="Meu esboço" width="900" />
 
 Este é o esboço do que tentei modularizar, 1 Classe MovimentoCodar que possui outras 4 inferiores, sendo que 3 delas utilizam composição para aproveitar os atributos da MovimentoCodar. Além disso, também utilizei a herança para criar a classe OrganizadorMentor, que herdará todas características de Mentor, não sendo exclusivamente Organizador.
 Para rodar o projeto, basta compilar o arquivo Main.java e ver a sua execução no console.
